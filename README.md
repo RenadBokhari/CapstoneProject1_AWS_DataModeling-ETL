@@ -1,1 +1,1 @@
-# CapstoneProject1_AWS_DataModeling-ETL
+# AWS_DataModeling-ETL
